@@ -1,0 +1,214 @@
+[
+    {
+        "country": "United States",
+        "data": ["Apply to an SEVP approved institution and be accepted by a Student and Exchange Visitor Program (SEVP) approved school in the US (6 to 12 months prior to US study).",
+         "After being accepted at an SEVP certified institution you will receive an I-20 or DS-160 form. The form is a must to apply for an USA student visa.",
+         "Pay your SEVIS fee at least 3 days prior to submitting your US visa application. You may make the payment through online or a paper form. The information about them can be accessed through US Immigration Customs Enforcement (ICE) SEVP official website.",
+         "Once you have received your SEVIS form and paid the SEVIS fee, you can book an appointment with a US consulate or embassy in your country for a US student visa application. Pay the visa application fee. It is also known as the Machine Readable Visa Fee, or MRV fee.",
+         "The last step is to schedule and attend a USA student visa interview. Go to the embassy or consulate website and check for all required documents that you need to carry to the interview. "
+        ],
+        "necessary": [
+            "Name and date of birth \\n Address and contact number",
+            "Passport details",
+            "Details of travel plans, and travel companions",
+            "Details of previous US travel",
+            "Your point of contact in the US",
+            "Family, work and education details",
+            "Security, background and medical health information",
+            "SEVIS ID and address of US school/program you intend to enrol in (as printed on I-20 or DS-2019 form)"
+        ]
+    },
+    {
+        "country": "Canada",
+        "data": ["Apply at a Canadian university and receive the letter of acceptance.",
+        " Apply online for your Canadian student visa, on the Citizenship and Immigration Canada (CIC) website.",
+        "Upload all necessary documents.",
+        "Deliver proof of sufficient financial resources to support your studies in Canada (Tuition fees and Living expenses).",
+        "Present proof confirming you have no criminal record.",
+        "Submit medical reports to confirm that you are fit and healthy. ",
+        "After the online process is completed, you will be called to attend your student visa interview to the respective embassy office you choose."
+        ],
+        "necessary": [
+            "Name and date of birth",
+            "Address and contact number",
+            "Passport details",
+            "Details of travel plans, and travel companions",
+            "Security, background and medical health information",
+            "Original letter of acceptance from a Canadian university",
+            "If you plan to study in Quebec, you will also need a Certificat d’acceptation du Québec, English and French translations of your document, a statement from the translator and a certified copy of the original documents",
+            "Proof of English language proficiency"
+        ]
+    },
+    {
+        "country": "France",
+        "data":[
+            "Create an account in Campus France.",
+            "Fill the application form and upload required documents. Ensure Campus France fees are paid.",
+            "Depending on your applications and the chosen institutes, you shall be either accepted or rejected for the chosen course. In case of acceptance, you will receive a mail from the institution to your Campus France account.",
+            "Once Campus France reviews the application, they will assign an academic interview appointment date. ",
+            "The visa appointment will be in person, so you need to carry along all the necessary documents. In the interview, state which university accepted your application and why you wish to study it in France.",
+            "Following the interview, an interview completion certificate will be given to you along with the original copies of the hard copies of the documents that were bought.",
+            "Create an account there and schedule a meeting with the VFS-France to submit all documents.",
+            "Visit the VFS centre to submit your biometric details. Once the visa is approved you can collect the same here itself.",
+            "After you land in France, ensure within three months, your visa is validated."
+        ],
+        "necessary":[
+            "Academic Transcripts",
+            "Language test scores",
+            "Valid Passport",
+            "Cover letter",
+            "Proof of Funding",
+            "Proof of Accommodation",
+            "University/ Institute Acceptance letter",
+            "Medical Insurance",
+            "Passport size photos ",
+            "Flight Ticket"
+        ]
+    },
+    {
+        "country":"Australia",
+        "data":[
+            "After you’ve been selected by your desired university, you receive an offer of acceptance. After which, you can go ahead to pay the tuition fee for the course. By doing so, your university will send you a Confirmation Of Enrolment letter or CoE. This is an important document for your visa application.", 
+            "The student visa process for Australia is initiated online by opening an account on the Australian Immigration website. ",
+            "Make sure you have all your documents in digital format to apply for a Subclass 500 student visa. ",
+            "Fill your visa application form online for Subclass 500 student visa, along with your CoE no and country codes. The application might take up to 125 days to process. Therefore, you are suggested to process your application in advance. ",
+            "After completion, pay the visa fees of AUD 620 and get your TRN number. ",
+            "After receiving your TRN no., have a medical check-up done as a prerequisite. ",
+            "Attend your Australia visa interview. Wait for your visa document. "
+        ],
+        "necessary":[
+            "Valid Passport",
+            "Health insurance ",
+            "CoE letter",
+            "Proof of finance (According to the recent requirement, you are supposed to show AUD 20,290 for a year of study in Australia) ",
+            "Proof of temporary stay",
+            "Birth certificate",
+            "Address and Education proofs",
+            "Qualification certificates ",
+            "Bank statements",
+            "IELTS or TOEFL score report",
+            "Proof of any previous employment",
+            "Document stating you do not have any previous record"
+        ]
+    },
+    {
+        "country": "Germany",
+        "data": [
+            "Get an acceptance letter from your desired German university.",
+            "Open your blocked account. When applying for a visa, you can provide evidence that you are able to meet your living costs by opening a blocked bank account.",
+            "Prepare the necessary documents for your student visa application as soon as you receive your acceptance letter. ",
+            "Procure photos which meet biometric photo requirements. ",
+            "Fill the application form, print it, sign it and submit it along with the other documents. ",
+            "Schedule an appointment for your visa interview.",
+            "Pay the visa fees in the form of a demand draft."
+        ],
+        "necessary":[
+            "Completed application form ",
+            "Valid passport ",
+            "Two photographs ",
+            "Acceptance letter by a German University ",
+            "Academic transcripts ",
+            "Language proficiency test results (English or German, depending on the language of your course) ",
+            "Proof of funds (EUR 8,700 per year ) ",
+            "Health insurance ",
+            "Declaration of authenticity of documents submitted"
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "data":[
+            "Gather your documents. Scan them into a PDF format.",
+            "Visit the official immigration website and create an account to apply online. If you wish to apply in person, visit the nearest embassy or consulate and pick up an application form for an appointment.",
+            "Fill the application form and submit it along with the rest of your documents.",
+            "Pay the visa application fee and then, wait for your visa application approval. ",
+            "The New Zealand student visa takes about 20 days to process an online application. Offline applications might take about 25 days. Therefore, it’s best if you apply at least six weeks prior to your travel to New Zealand."
+        ],
+        "necessary":[
+            "Passport",
+            "Letter of Acceptance",
+            "Proof of Accommodation",
+            "Visa Application Form",
+            "Visa Application Fee",
+            "Finances",
+            "English Language Proficiency",
+            "Health Insurance",
+            "Character Certificate",
+            "Two passport-sized photographs"
+        ]
+    },
+    {
+        "country": "United Kingdom",
+        "data":[
+            "Determine the type of Visa you require - Short term or Tier 4 ",
+            "Apply for the student visa under the respective visa category.",
+            "You are required to attend a visa interview as per the university rules.",
+            "You need to get a screening test done for Tuberculosis.",
+            "If you’re going to stay in UK for more than 6 months, you have to pay the Immigration Health Surcharge.",
+            "Once you’ve filled in your visa application, you need to send in your biometric information after which your visa will be processed.",
+            "The process for a student visa is 3 weeks and can be extended based on your visa application."
+        ],
+        "necessary":[
+            "Proof of current passport or valid travel document",
+            "Valid ATAS certificate",
+            "Proof of tuberculosis test",
+            "CAS certificate",
+            "Proof of funds",
+            "Proof of English speaking skills"
+        ]
+    },
+    {
+        "country":"India",
+        "data":[
+            "The first step is to Fill and Submit the Visa Application Form Securely. Applicants can fill the online form by going to  Indian Government Visa Application Page and then can click on Regular/Paper Visa Application.",
+            "Once the form is filled and submitted, the applicant should print the application form and sign it and then submit the physical copy along with the supporting documents and the Passport to the concerned Indian Visa Application Center  (IVAC) or directly at the Indian Mission on the scheduled appointment date. More instruction for scheduling the appointment are available at Instructions Page",
+            "The Applicant can Collect/Receive their Passport/Visa from the Indian Mission or the Visa Application Center or by Post. Meanwhile, the applicant can see the Status of their Visa Application, by going on the Indian Visa Information Page and then clicking on Check Your Visa Status tab."
+        ],
+        "necessary":[
+            "Passport with at least two blank pages and an expiry date beyond 180 days",
+            "Two passport-sized photographs",
+            "A photocopy of your passport",
+            "Proof of where you’ll be living in India",
+            "A printed version of your online application",
+            "A formal admission letter from your university",
+            "Evidence of financial resources to cover your living expenses in India"
+        ]
+    },
+    {
+        "country":"South Korea",
+        
+        "data":[
+            "After you have been admitted to a university program, it is time to pay the tuition fee (which usually is very reasonable in Korea) and get a good study abroad insurance. Once it has been paid the university will send you a Certificate of Admission. When you have received this document, you can apply for a student visa at the Korean embassy in your home country. If you wish to enter Korea on a student visa, we recommend that you pay your tuition fee no later than 2 months before your program starts. This should give you enough time to receive your admission documents and apply for the visa. If you don’t have enough time to get a student visa before your program starts you can travel to South Korea on visa waiver, as a last resort, and transfer to a student visa on-site as we described under headline 1 above. Contact your school for more information about this before you leave.",
+            "You must collect your visa personally at the Korean Embassy unless you use a visa agency that does the job for you."
+        ],
+        "necessary":[
+            "Visa application form (form #17), copy of passport, 1 passport photo (taken within the last six months)",
+            "Photocopy of Business Registration Certificate (or distinct number certificate) of a respective education institution",
+            "Standard Acceptance Letter (issued by the dean/president of the university)",
+            "Documents proving your family relations (Only when your parent’s certificate of balance is submitted.)",
+            "Documents for proving your highest level of education"
+        ]
+    },
+    {
+        "country":"China",
+        "data":[
+            "You must provide your actual signed passport, including one copy of the personal information page of your passport.",
+            "Photograph should be exactly 48 mm tall by 33 mm wide.",
+            "The Chinese Consulate requires a photograph that meets very strict requirements.",
+            "Follow to upload your photo. All electronic photo submissions must be taken within the last six months against an all-white backgorund. It must show a full frontal view of your head, face centered in the middle, the tops of your shoulders, and display a neutral (non-smiling) expression with eyes open, mouth closed, and ears visible. No background light or shadows are permitted. You may not wear eyeglasses, jewelry, or headwear except for religious purposes. Do not wear a white shirt.",
+            "An original signed letter that states the following: Whether you're applying for an X1 Visa. Exactly how many days you will stay in China. Entry and Exit Dates. The letter must be written and signed by the applicant.",
+            "You must obtain an original official letter of invitation from your sponsor.",
+            "This letter must: Specify number of entries you are requesting for your visa. Show your exact name as per your passport. The letter must be addressed to: Consulate General of the People's Republic of China in New York",
+            "You must provide a copy of the travel record form. The form should include all countries that you have visited in the last 14  days. It should also include, entry and exit dates of each travel you are mentioning. Also, the passport page number which has the travel stamp should also be mentioned in the form."
+        ],
+        "necessary":[
+            "Passport",
+            "Photographs",
+            "JW202 Form ",
+            "Student Visa Support Letter ",
+            "Visa Application Form ",
+            "Letter of Invitation ",
+            "Travel Record ",
+            "Authorization Letter"
+        ]
+    }
+]
