@@ -1,0 +1,81 @@
+[
+    {
+        "Required Scores": ["GRE:310 and above",
+                            "IELTS:7 and above"
+                           ],
+        "Fees": "$29000",
+        "Scholarship": "Yes, $5000"
+    },
+  
+    {
+        "Required Scores": ["GRE:320 and above",
+                            "TOEFL:96 and above"
+                           ],
+        "Fees": "$44000",
+        "Scholarship": "Yes, $10000"
+    },
+  
+    {
+        "Required Scores": ["SAT:1400 and above",
+                            "IELTS:7 and above"
+                           ],
+        "Fees": "$34000",
+        "Scholarship": "No"
+    },
+  
+    {
+        "Required Scores": ["SAT:1000 and above",
+                            "TOEFL:99 and above"
+                           ],
+        "Fees": "$29000",
+        "Scholarship": "No"
+    },
+  
+    {
+        "Required Scores": ["GMAT:600 and above",
+                            "IELTS:6.5 and above"
+                           ],
+        "Fees": "$45000",
+        "Scholarship": "Yes, $5000"
+    },
+  
+    {
+        "Required Scores": ["GMAT:700 and above",
+                            "IELTS:8 and above"
+                           ],
+        "Fees": "$53000",
+        "Scholarship": "Yes, $12000"
+    },
+  
+    {
+        "Required Scores": ["GRE:300 and above",
+                            "IELTS:7 and above"
+                           ],
+        "Fees": "$25000",
+        "Scholarship": "Yes, $5000"
+    },
+  
+    {
+        "Required Scores": ["SAT:1000 and above",
+                            "IELTS:6.5 and above"
+                           ],
+        "Fees": "$32000",
+        "Scholarship": "No"
+    },
+  
+    {
+        "Required Scores": ["GMAT:700 and above",
+                            "IELTS:8 and above"
+                           ],
+        "Fees": "$40000",
+        "Scholarship": "Yes, $12000"
+    },
+  
+    {
+        "Required Scores": ["GRE:315 and above",
+                            "IELTS:7 and above"
+                           ],
+        "Fees": "$29000",
+        "Scholarship": "Yes, $7500"
+    }
+]
