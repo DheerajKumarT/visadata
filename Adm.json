@@ -1,6 +1,6 @@
 [
     {
-        "Required Scores": ["GRE:310 and above",
+        "Required": ["GRE:310 and above",
                             "IELTS:7 and above"
                            ],
         "Fees": "$29000",
@@ -8,7 +8,7 @@
     },
   
     {
-        "Required Scores": ["GRE:320 and above",
+        "Required": ["GRE:320 and above",
                             "TOEFL:96 and above"
                            ],
         "Fees": "$44000",
@@ -16,7 +16,7 @@
     },
   
     {
-        "Required Scores": ["SAT:1400 and above",
+        "Required": ["SAT:1400 and above",
                             "IELTS:7 and above"
                            ],
         "Fees": "$34000",
@@ -24,7 +24,7 @@
     },
   
     {
-        "Required Scores": ["SAT:1000 and above",
+        "Required": ["SAT:1000 and above",
                             "TOEFL:99 and above"
                            ],
         "Fees": "$29000",
@@ -32,7 +32,7 @@
     },
   
     {
-        "Required Scores": ["GMAT:600 and above",
+        "Required": ["GMAT:600 and above",
                             "IELTS:6.5 and above"
                            ],
         "Fees": "$45000",
@@ -40,7 +40,7 @@
     },
   
     {
-        "Required Scores": ["GMAT:700 and above",
+        "Required": ["GMAT:700 and above",
                             "IELTS:8 and above"
                            ],
         "Fees": "$53000",
@@ -48,7 +48,7 @@
     },
   
     {
-        "Required Scores": ["GRE:300 and above",
+        "Required": ["GRE:300 and above",
                             "IELTS:7 and above"
                            ],
         "Fees": "$25000",
@@ -56,7 +56,7 @@
     },
   
     {
-        "Required Scores": ["SAT:1000 and above",
+        "Required": ["SAT:1000 and above",
                             "IELTS:6.5 and above"
                            ],
         "Fees": "$32000",
@@ -64,7 +64,7 @@
     },
   
     {
-        "Required Scores": ["GMAT:700 and above",
+        "Required": ["GMAT:700 and above",
                             "IELTS:8 and above"
                            ],
         "Fees": "$40000",
@@ -72,7 +72,7 @@
     },
   
     {
-        "Required Scores": ["GRE:315 and above",
+        "Required": ["GRE:315 and above",
                             "IELTS:7 and above"
                            ],
         "Fees": "$29000",
